@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "357675996977",
+    "firebase_url": "https://arboapp-default-rtdb.firebaseio.com",
+    "project_id": "arboapp",
+    "storage_bucket": "arboapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357675996977:android:f26dec0355d791caf24210",
+        "android_client_info": {
+          "package_name": "com.arboapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357675996977-n711r31lc1iv9kkcvnng30dmrqlcv9mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPwoq-hhtvLli-YWy_rrZuj1yWQo-650"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357675996977-n711r31lc1iv9kkcvnng30dmrqlcv9mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357675996977:android:a8976d9858904dd9f24210",
+        "android_client_info": {
+          "package_name": "com.arboapplocalelocale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357675996977-n711r31lc1iv9kkcvnng30dmrqlcv9mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPwoq-hhtvLli-YWy_rrZuj1yWQo-650"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357675996977-n711r31lc1iv9kkcvnng30dmrqlcv9mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
